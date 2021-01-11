@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my coffee
-img_path: images/about.jpg
+img_path: images/maroon-sunflower.jpg
 template: page
 ---
 **Hi, I'm john. For several years I have become addicted to sharing information. First I started as a Google Guide. And after less than a year, I had over 1 million views on my photos in google maps. Shortly after my start I also started to google street view to share even more information.**
