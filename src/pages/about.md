@@ -12,12 +12,12 @@ template: page
 
 **As a volunteer, I share and also write for a few websites. These are (partly) from my wife and friends. So I will count these views.**
 
-****
+***
 
-**Do you want me to mention you too? Please contact us via the contact form.**
+> **Do you want me to mention you too? Please contact us via the contact form.**
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
+> Contact me :)
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+
 
 *Thank You for reading!*
