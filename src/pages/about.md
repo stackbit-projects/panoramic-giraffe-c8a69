@@ -14,10 +14,8 @@ template: page
 
 ***
 
-> **Do you want me to mention you too? Please contact us via the contact form.**
+> **Do you want me to mention you too? **
 
 > Contact me :)
-
-
 
 *Thank You for reading!*
