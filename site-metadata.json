@@ -68,7 +68,7 @@
         "links": [
             {
                 "label": "Lookfor.nl",
-                "url": "lorem-ipsum",
+                "url": "https://lookfor.nl",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
